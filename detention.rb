@@ -2,4 +2,5 @@
 class Detention 
   def initialize
     @test = Detention.new
-    
+  end 
+end 
